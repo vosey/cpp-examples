@@ -2,8 +2,8 @@
 // Created by wangwei on 16/5/20.
 //
 
-#ifndef DEMO_DMA_H
-#define DEMO_DMA_H
+#ifndef DMA_H
+#define DMA_H
 
 #include <iostream>
 
@@ -55,4 +55,4 @@ public:
 
 };
 
-#endif //DEMO_DMA_H
+#endif //DMA_H
